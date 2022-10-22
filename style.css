@@ -81,3 +81,15 @@ header p{
     pointer-events: auto;
     transition: all 0.5s  ease;
 }
+
+footer{
+    background-color: #f5f5f5;
+    color: black;
+     bottom: 0;
+     left: 0;
+     align-items: center;
+     display: flex;
+     justify-content: center;
+     position: fixed;
+     right: 0;
+}
