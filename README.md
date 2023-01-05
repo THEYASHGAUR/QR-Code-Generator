@@ -10,3 +10,4 @@ Through this application you can easliy create the QR code with the text or the 
 You can also see the live demo of this application on the URL = https://qr-code-generator-by-yash-gaur.netlify.app/
 
 demo changes
+demo changes 2
